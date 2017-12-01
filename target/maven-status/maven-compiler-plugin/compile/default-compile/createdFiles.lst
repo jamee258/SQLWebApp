@@ -1,0 +1,12 @@
+com\crunchify\restjersey\filter\JDBCFilter.class
+com\crunchify\restjersey\beans\ServerInfo.class
+com\crunchify\restjersey\execute\CtoFService.class
+com\crunchify\restjersey\utils\DBUtils.class
+com\crunchify\restjersey\beans\UserAccount.class
+com\crunchify\restjersey\conn\SQLServerConnUtils_SQLJDBC.class
+com\crunchify\restjersey\conn\ConnectionUtils.class
+com\crunchify\restjersey\servlet\HomeServlet.class
+com\crunchify\restjersey\servlet\ProductListServlet.class
+com\crunchify\restjersey\filter\EncodingFilter.class
+com\crunchify\restjersey\execute\FtoCService.class
+com\crunchify\restjersey\utils\MyUtils.class
